@@ -1,4 +1,4 @@
-![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/NodeMcu_car?style=for-the-badge) 
+![my badge](https://img.shields.io/badge/Made%20with-C++-blue?style=for-the-badge&logo=C)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/NodeMcu_car?style=for-the-badge) 
 
 # NodeMcu_car
  This code is for Node Mcu, the code make your car to remote control through the wifi and it controled by android phone
